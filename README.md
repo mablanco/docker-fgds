@@ -1,6 +1,6 @@
 # docker-fgds
 
-Docker image for Fast Google Dorks Scan (FGDS), a script to enumerate web-sites using Google dorks (<https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/>). This image uses a minimalistic approach. It's built upon Alpine Linux, so it has the smallest possible footprint when launched.
+Docker image for Fast Google Dorks Scan (FGDS), a script to enumerate web-sites using Google dorks (<https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan/>). This image it's built upon Alpine Linux, so it has the smallest possible footprint when launched.
 
 ## How to use this image
 
