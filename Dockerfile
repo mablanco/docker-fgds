@@ -1,4 +1,4 @@
-FROM alpine:3.12.0
+FROM alpine:3.12.1
 WORKDIR /app
 RUN apk add --update --no-cache git bash curl && \
     git clone --depth 1 https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan.git . && \
