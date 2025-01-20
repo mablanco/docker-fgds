@@ -8,8 +8,12 @@ I recommend running the Docker container with the `--rm` parameter, which will r
 
 This command will run FGDS with no parameters, thus showing its presentation banner and inline help:
 
-    $ docker run --rm mablanco/fgds
+```bash
+~ docker run --rm mablanco/fgds
+```
 
 This command will scan a domain:
 
-    $ docker run -t --rm mablanco/fgds megacorp.one
+```bash
+~ docker run -t --rm mablanco/fgds megacorp.one
+```
